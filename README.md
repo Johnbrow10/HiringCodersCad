@@ -1,4 +1,4 @@
-# Cadastros Para HiringCoders :shopping_cart::🧔🏽:
+# Cadastros Para HiringCoders :shopping_cart:🧔🏽
 
 Seja bem vindo! Neste desafio do Treinamento Hiring Coders, foi criado um Sistema de Gestão de Cadastros de Produtos e Clientes. 
 
@@ -13,7 +13,7 @@ Seja bem vindo! Neste desafio do Treinamento Hiring Coders, foi criado um Sistem
 
 Ao enviar as informações, elas são adicionadas à tabela presente na página e ficam armazenadas no Local Storage.
 
-Você pode conferir o projeto em: <a href="">Gestão de Cadastros</a>
+Você pode conferir o projeto em: <a href="https://cadastro-desafio-hr.netlify.app/">Controle de Cadastros</a>
 
 
 Para a elaboração do projeto, utilizei:
@@ -22,6 +22,6 @@ Para a elaboração do projeto, utilizei:
 - **CSS**
 - **JavaScript**
 
-Fique à vontade para conferir o resultado neste repositório e para entrar em contato.
+Fique à vontade para entrar em contato.
 LinkedIn [clique aqui](https://www.linkedin.com/in/johnatanprogram/)
-## 🚀
+
